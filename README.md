@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I want to be a diligent farmer!
+#### I want to be a diligent farmer! 🌱
 
 <!--
 **whdmsco010/whdmsco010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
