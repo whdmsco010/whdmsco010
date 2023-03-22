@@ -1,3 +1,4 @@
+# 🌷 Dparks62's github 🌷
 ### Hi there 👋
 #### I want to be a diligent farmer! 🌱
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌷 Stack 🌷
+## ✨ Stack ✨
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdmsco010&layout=compact)](https://github.com/whdmsco010/github-readme-stats)
