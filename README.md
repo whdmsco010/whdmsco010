@@ -1,4 +1,4 @@
-# 🌷 Dparks62's github 🌷
+# 🌷 dparks62's github 🌷
 ### Hi there 👋
 #### I want to be a diligent farmer! 🌱
 #### You can call me "존ㅊH" comfortably
