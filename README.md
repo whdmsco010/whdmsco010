@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img src="https://img.shields.io/badge/AndroidStudio-E34F26?style=flat-square&logo=Android Studio&logoColor=white"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdmsco010&layout=compact)](https://github.com/whdmsco010/github-readme-stats)
