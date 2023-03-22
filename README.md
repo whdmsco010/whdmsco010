@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 ## 🗺 Language 🗺
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 ## ✨ Stack ✨
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
