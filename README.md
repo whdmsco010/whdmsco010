@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🗺 Language 🗺
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdmsco010&layout=compact)](https://github.com/whdmsco010/github-readme-stats)
 
 ## ✨ Stack ✨
-<!--
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
--->
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
 
 ## 💻 Project 💻
 ### ~ing
