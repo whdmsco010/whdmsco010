@@ -1,7 +1,6 @@
 # 🌷 dparks62's github 🌷
-### Hi there 👋
+### Hi
 #### I want to be a diligent farmer! 🌱
-#### You can call me "존ㅊH" comfortably
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdmsco010&show_icons=true&theme=solarized-light)
 <!--
 **whdmsco010/whdmsco010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
